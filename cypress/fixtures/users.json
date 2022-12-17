@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "username": "sandy",
+    "firstName": "Adam",
+    "lastName": "Sandler",
+    "email": "adam_sandler@hotmail.com",
+    "password": "pass123",
+    "phone": "4-25-60",
+    "userStatus": 0
+  },
+  {
+    "id": 2,
+    "username": "beverlyCop",
+    "firstName": "Eddie",
+    "lastName": "Murphy",
+    "email": "eddie_murphy@outlook.com",
+    "password": "123pass",
+    "phone": "3-43-70",
+    "userStatus": 0
+  },
+  {
+    "id": 3,
+    "username": "ace_ventura",
+    "firstName": "Jim",
+    "lastName": "Carrey",
+    "email": "jimmy_jimmy@mask.com",
+    "password": "alrighty_then",
+    "phone": "7-77-77",
+    "userStatus": 0
+  }
+]

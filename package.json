@@ -1,0 +1,16 @@
+{
+  "name": "7_cypress_2_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser chrome",
+    "test:dashboard": "npx cypress run --record --key 8ce869c7-206f-4ee4-8d41-ffc2e47848a0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.2.0"
+  }
+}
